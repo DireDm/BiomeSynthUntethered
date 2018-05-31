@@ -1,0 +1,220 @@
+fileFormatVersion: 2
+guid: 0a7fa02480a98ad4b8463bfdb23bcf54
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: alix_seated_01
+    100002: cable_01
+    100004: chair_01
+    100006: collar_01
+    100008: generator_01
+    100010: generator_02
+    100012: generator_03
+    100014: generator_04
+    100016: //RootNode
+    100018: monitor_01
+    100020: monitor_02
+    100022: monitor_03
+    100024: monitor_04
+    100026: monitor_05
+    100028: monitor_06
+    100030: monitor_07
+    100032: monitor_08
+    100034: monitor_09
+    100036: monitor_10
+    100038: monitor_11
+    100040: monitor_12
+    100042: portal_amall_ring
+    100044: table_amall
+    100046: table_big
+    100048: table_med
+    100050: wall_stand_alone_01
+    400000: alix_seated_01
+    400002: cable_01
+    400004: chair_01
+    400006: collar_01
+    400008: generator_01
+    400010: generator_02
+    400012: generator_03
+    400014: generator_04
+    400016: //RootNode
+    400018: monitor_01
+    400020: monitor_02
+    400022: monitor_03
+    400024: monitor_04
+    400026: monitor_05
+    400028: monitor_06
+    400030: monitor_07
+    400032: monitor_08
+    400034: monitor_09
+    400036: monitor_10
+    400038: monitor_11
+    400040: monitor_12
+    400042: portal_amall_ring
+    400044: table_amall
+    400046: table_big
+    400048: table_med
+    400050: wall_stand_alone_01
+    2100000: initialShadingGroup
+    2100002: anisotropic1SG
+    2100004: lambert2SG
+    2100006: lambert4SG
+    2100008: No Name
+    2100010: 'Material #33'
+    2100012: 'Material #34'
+    2300000: alix_seated_01
+    2300002: cable_01
+    2300004: chair_01
+    2300006: collar_01
+    2300008: generator_01
+    2300010: generator_02
+    2300012: generator_03
+    2300014: generator_04
+    2300016: monitor_01
+    2300018: monitor_02
+    2300020: monitor_03
+    2300022: monitor_04
+    2300024: monitor_05
+    2300026: monitor_06
+    2300028: monitor_07
+    2300030: monitor_08
+    2300032: monitor_09
+    2300034: monitor_10
+    2300036: monitor_11
+    2300038: monitor_12
+    2300040: portal_amall_ring
+    2300042: table_amall
+    2300044: table_big
+    2300046: table_med
+    2300048: wall_stand_alone_01
+    3300000: alix_seated_01
+    3300002: cable_01
+    3300004: chair_01
+    3300006: collar_01
+    3300008: generator_01
+    3300010: generator_02
+    3300012: generator_03
+    3300014: generator_04
+    3300016: monitor_01
+    3300018: monitor_02
+    3300020: monitor_03
+    3300022: monitor_04
+    3300024: monitor_05
+    3300026: monitor_06
+    3300028: monitor_07
+    3300030: monitor_08
+    3300032: monitor_09
+    3300034: monitor_10
+    3300036: monitor_11
+    3300038: monitor_12
+    3300040: portal_amall_ring
+    3300042: table_amall
+    3300044: table_big
+    3300046: table_med
+    3300048: wall_stand_alone_01
+    4300000: table_big
+    4300002: wall_stand_alone_01
+    4300004: monitor_05
+    4300006: monitor_03
+    4300008: monitor_04
+    4300010: monitor_10
+    4300012: monitor_12
+    4300014: monitor_02
+    4300016: monitor_01
+    4300018: monitor_08
+    4300020: monitor_09
+    4300022: monitor_07
+    4300024: monitor_11
+    4300026: monitor_06
+    4300028: generator_04
+    4300030: generator_01
+    4300032: generator_02
+    4300034: generator_03
+    4300036: portal_amall_ring
+    4300038: table_med
+    4300040: table_amall
+    4300042: cable_01
+    4300044: chair_01
+    4300046: collar_01
+    4300048: alix_seated_01
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
